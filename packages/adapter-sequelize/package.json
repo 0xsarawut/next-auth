@@ -41,9 +41,9 @@
     "@auth/core": "workspace:*"
   },
   "peerDependencies": {
-    "sequelize": "^6.6.5"
+    "sequelize": "^6.37.4"
   },
   "devDependencies": {
-    "sequelize": "^6.6.5"
+    "sequelize": "^6.37.4"
   }
 }
