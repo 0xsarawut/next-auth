@@ -54,7 +54,7 @@
     "drizzle-kit": "^0.23.0",
     "drizzle-orm": "^0.32.0",
     "libsql": "^0.3.18",
-    "mysql2": "^3.9.7",
+    "mysql2": "^3.23.1",
     "postgres": "^3.4.3",
     "tsx": "^4.7.0"
   }
